@@ -1,4 +1,5 @@
 ## Olá, meu nome é Apoema! 👋
+Graduanda em Sistemas de Informação no IFES
 
 <!--
 **apoemafernandes/apoemafernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
